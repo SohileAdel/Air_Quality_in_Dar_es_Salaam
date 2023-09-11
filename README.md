@@ -1,4 +1,4 @@
-# air-quality-in-dar-es-salaam
+# air-quality-time-series
 
 #### -- Project Status: Completed
 

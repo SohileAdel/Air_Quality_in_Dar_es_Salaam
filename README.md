@@ -1,4 +1,4 @@
-# air-quality-time-series
+# Air Quality Time Series
 
 #### -- Project Status: Completed
 
